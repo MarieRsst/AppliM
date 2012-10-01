@@ -1,21 +1,28 @@
 #header-black {
 	background-color: black;
 	color:white;
+	width: 1280px;
+	height: 100px;
+	margin-left: 1px;
+	margin-bottom:10px;
+	margin-right: 10px;
+	margin-top: 10px;
+
 }
-#img {
+
+#profilepic {
 	float: left;
-	width: 80px;
-	height: 80px;
+	width: 100px;
+	height: 100px;
 }
 
 h1 {
 	text-align: right;
 	font-size: 30px;
 	font-family: Georgia;
-	margin-left: 20px;
-	margin-bottom:10px;
-	margin-right: 10px;
-	margin-top: 10px;
+	margin-right: 800px;
+	padding-top: 30px;
+	
 }
 
 p {
@@ -23,16 +30,11 @@ p {
 	font-size: 15px;
 }
 
-#formation {
+#titres {
 	background-color: #808080;
-width: 150px;
-height: 700px;
-float: left;
-}
-
-h2 {
-	margin-left: 10px;
-	font-size: 15px;
+	width: 150px;
+	height: 700px;
+	float: left;
 }
 
 #content-formation {
@@ -46,4 +48,20 @@ h2 {
 h3 {
 	margin-left: 10px;
 	font-size: 15px;
+	font
+}
+
+h2 {
+	margin-left: 20px;
+	font-size: 20px;
+	font-style: bold;
+}
+
+#content-experiences {
+	background-color:#C0C0C0;
+	width: 1120px;
+	height: 160px;
+	float: left;
+	margin-left:10px;
+	margin-top: 10px;
 }
